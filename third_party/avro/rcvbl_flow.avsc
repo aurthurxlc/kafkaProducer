@@ -1,0 +1,51 @@
+{
+  "namespace": "cn.gitos.aurthur.avro",
+  "type": "record",
+  "name": "RcvblFlow",
+  "fields": [
+    {
+      "name": "rcvbl_amt_id",
+      "type": "long"
+    },
+    {
+      "name": "amt_type",
+      "type": "string"
+    },
+    {
+      "name": "rcvbl_ym",
+      "type": "string"
+    },
+    {
+      "name": "cons_no",
+      "type": "string"
+    },
+    {
+      "name": "org_no",
+      "type": "string"
+    },
+    {
+      "name": "pay_mode",
+      "type": "string"
+    },
+    {
+      "name": "t_pq",
+      "type": "double"
+    },
+    {
+      "name": "rcvbl_amt",
+      "type": "double"
+    },
+    {
+      "name": "rcved_amt",
+      "type": "double"
+    },
+    {
+      "name": "own_amt",
+      "type": "double"
+    },
+    {
+      "name": "released_date",
+      "type": "string"
+    }
+  ]
+}

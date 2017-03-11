@@ -1,0 +1,426 @@
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 82 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 82 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 84 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 84 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 86 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 86 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 88 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 88 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 90 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 90 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 92 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 92 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 94 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 94 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 96 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 96 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 98 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 98 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 100 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 100 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 102 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 102 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 104 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 104 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 106 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 106 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 108 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 108 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 110 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 110 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 112 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 112 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 114 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 114 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 116 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 116 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 118 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 118 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 120 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 120 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 122 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 122 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 124 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 124 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 126 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 126 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 128 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 128 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 130 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 130 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 132 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 132 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 134 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 134 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 136 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 136 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 138 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 138 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 140 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 140 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 142 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 142 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 144 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 144 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 146 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 146 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 148 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 148 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 150 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 150 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 152 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 152 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 154 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 154 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 156 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 156 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 158 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 158 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 160 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 160 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 162 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 162 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 164 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 164 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 166 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 166 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 168 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 168 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 170 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 170 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 172 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 172 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 174 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 174 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 176 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 176 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 178 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 178 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 180 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 180 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 182 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 182 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 184 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 184 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 186 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 186 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 188 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 188 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 190 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 190 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 192 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 192 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 194 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 194 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 196 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 196 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 198 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 198 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 200 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 200 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Handling 1 events
+DEBUG main kafka.producer.BrokerPartitionInfo - Getting broker partition info for topic TEST-TOPIC
+DEBUG main kafka.producer.BrokerPartitionInfo - Partition [TEST-TOPIC,0] has leader 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Broker partitions registered for topic: TEST-TOPIC are 0
+DEBUG main kafka.producer.async.DefaultEventHandler - Sending 1 messages with no compression to [TEST-TOPIC,0]
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sending messages with correlation id 202 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+DEBUG main kafka.producer.async.DefaultEventHandler - Producer sent messages with correlation id 202 for topics [TEST-TOPIC,0] to broker 0 on ubuntu.b.d:9092
+INFO main kafka.producer.Producer - Shutting down producer
+INFO main kafka.producer.ProducerPool - Closing all sync producers
+INFO main kafka.producer.SyncProducer - Disconnecting from ubuntu.b.d:9092
+INFO main kafka.producer.Producer - Producer shutdown completed in 40 ms

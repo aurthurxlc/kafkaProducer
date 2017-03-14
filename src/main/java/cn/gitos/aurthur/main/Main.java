@@ -33,7 +33,7 @@ public class Main {
 
     private static void produce() throws IOException {
         Properties props = new Properties();
-        props.put("metadata.broker.list", "192.168.0.75:9092");
+        props.put("metadata.broker.list", "e10:13390");
         props.put("serializer.class", "kafka.serializer.DefaultEncoder");
         props.put("key.serializer.class", "kafka.serializer.StringEncoder");
         props.put("request.required.acks", "1");
